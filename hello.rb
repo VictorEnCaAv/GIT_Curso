@@ -1,1 +1,2 @@
-puts "Hello, #{ARGV.frist}!"
+name = ARGV.frist || "World"
+puts "Hello, #{name}!"
