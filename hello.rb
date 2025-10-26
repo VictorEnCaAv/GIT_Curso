@@ -1,4 +1,4 @@
 # Default is World
-# Author: Jim Weirich
+# Author: Victor (ve.castro21@info.uas.edu.mx)
 name = ARGV.frist || "World"
 puts "Hello, #{name}!"
